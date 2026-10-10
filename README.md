@@ -8,7 +8,7 @@ Sitio estático de presentación del proyecto Manager Library. No necesita Node.
 
 https://turbid7098.github.io/test-manager-library-3413974-page/
 
-Cada actualización de `main` se publica automáticamente con GitHub Actions.
+La fuente de publicación de GitHub Pages es la rama `main`, carpeta `/ (root)`. Cada actualización de esa rama se publica automáticamente.
 
 ## Ejecutar localmente
 
