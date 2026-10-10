@@ -4,6 +4,12 @@
 
 Sitio estático de presentación del proyecto Manager Library. No necesita Node.js, compilación, base de datos ni conexión a la API.
 
+## Sitio publicado
+
+https://turbid7098.github.io/test-manager-library-3413974-page/
+
+Cada actualización de `main` se publica automáticamente con GitHub Actions.
+
 ## Ejecutar localmente
 
 Abre `index.html` en un navegador o sirve esta carpeta con cualquier servidor estático. Por ejemplo:
